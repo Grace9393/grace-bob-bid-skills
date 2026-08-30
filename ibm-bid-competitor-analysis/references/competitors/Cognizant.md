@@ -1,0 +1,34 @@
+### Cognizant
+
+- Leverages strong pedigree in HLS and BFSI sectors, which it has planned to double down upon
+- Strong foothold in onshore-heavy engagements due to the augmentation of its onshore capabilities coupled with focused acquisitions
+- In quick turnaround situations, its transition story came out to be weak and canned. In spite of being among the larger incumbents, it ended up getting eliminated
+- Cognizant had once reputation of credible and mature solutions across the services spectrum – consulting, design/build, and managed services.  However, Cognizant’s tech consulting growth rate has been among the industry laggards
+- Unoptimized pyramid coupled with high input rates may result in among the highest pricing in managed services deals
+- Cognizant continues to be moderately competitive in terms of pricing as compared to some of its Indian peers in the cloud and infrastructure services space. Not too keen to use price as the differentiator
+- In applications services deals, it is the most expensive service provider among Indian heritage firms and often can come close to Capgemini
+- Continues to price itself higher than most players even in large competitive bids mostly due to a disproportionate resource mix
+- Tends to charge a high skill premium at onshore and offshore
+- Prices its junior resources at a higher rate than its peers
+- Tends to charge a very high premium for Agile, SI, or other in-demand roles
+- Does not have a very strong presence in much of Europe apart from UK, Germany and Netherlands where it tends to give competitive rates at par with other IPPs
+- In ADM deals, despite having the correct solution sizing, the premium pricing in competitive deals is preventing Cognizant from winning deals. Typically, comfortable leading cross-tower deals including rebadging scope. Has been open to solicit such situations
+- In SI deals, enterprise platform services remains one of the strong suits with considerable credibility in solution flexibility, technical expertise and domain knowledge
+- Mostly flexible in contract T&amp;Cs’ including proposed contracted outcomes, unlimited liability clauses, accounted innovation
+- Negotiation &amp; fund, etc. However, in recent pursuits, in lieu of stricter terms and conditions, ended up refusing lots of critical SLAs and deliverables
+- May negotiate on service credit caps and penalties
+- Uses sub-contracting in some nearshore geographies including Mexico, leading to significantly high pricing. Have been observed to price itself out of the market and typically handle low volume of work out of these geographies
+- Strong foothold in onshore-heavy engagements due to the augmentation of its onshore capabilities coupled with focused acquisitions
+- Prefers to stick to traditional commercial models (fixed fee, milestone based, etc.) Does not prefer to do things too unique commercially difficult to approve internally
+- Leverages strong pedigree in HLS (Health and Life Sciences) and BFSI (Banking, Finance, Services, and Insurance) verticals, which it has planned to double down upon
+- Strong foothold in onshore-heavy engagements due to AO-delivery focused acquisitions
+- Despite being one of the larger incumbents, it ended up getting eliminated from large managed services AO deals focusing on vendor consolidation
+- Cognizant had once reputation of credible and mature solutions across the services spectrum – consulting, build, and managed services.  However, Cognizant’s tech consulting growth rate has been among the industry laggards
+- Unoptimized pyramid coupled with high input rates may result in among the highest pricing in managed services deals
+- Mostly flexible in contract T&amp;Cs’ including proposed contracted outcomes, unlimited liability clauses, accounted innovation fund, etc. However, in recent pursuits from APAC and Europe, in lieu of stricter terms and conditions, it has ended up refusing lots of critical SLAs and deliverables
+- In recent Europe based renewals with AO and transformation scope, we have observed them to propose additional Business SLAs (BSLA) and KPI framework explained with illustrative examples
+- May negotiate on service credit caps and penalties asked by the enterprises
+- Typically, comfortable leading cross-tower deals including rebadging scope in large AO deals. It has been open to solicit such situations Negotiation &amp; contracting
+- Prefers to stick to traditional commercial models (fixed fee, milestone based, etc.) and not try new and innovative commercial models (e.g.: outcome based)
+- Cognizant is observed to propose their proprietary tool for automation without any additional cost for recent deals from European enterprises to expand its regional presence beyond UK, Germany and Netherlands
+- Due to the conservative assumptions in effort sizing and rationale, their team size is usually higher in competitive AO/SI deals, impacting its overall commercials and chances to qualify for subsequent stages

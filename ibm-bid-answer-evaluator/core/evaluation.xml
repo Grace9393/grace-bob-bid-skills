@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<prompt>
+  <!-- Evaluation Criteria -->
+  <evaluation>
+    <step_instruction><![CDATA[
+A. Think about what the question means and what the concerns of the <client_name> might be.
+   If the question concerns a service, interpret "service" as the full operating model: people, process, data, and technology. Do not evaluate it as only a technology, tooling, or delivery-process question unless the tender explicitly narrows the scope.
+B. Review the answer to assess the relevance to the question - have all aspects of the question been answered fully and to a detailed level?
+   For service questions, check whether the answer covers relevant people, process, data, and technology dimensions.
+   If a word limit applies, load ibm-bid-word-count and verify compliance with that skill's existing count_words_in_markdown.py script. Do not use wc -w, pandoc, editor counts, model-estimated counts, copied snippets, one-off Python, JavaScript, shell pipelines, or any custom counting code. If no valid writer-supplied script result exists, place the evaluator-facing answer in a temporary markdown file and run the ibm-bid-word-count script before scoring.
+C. Comprehensiveness of the response - does the answer cover all necessary points?
+   For service questions, check whether it explains the operating model end to end: roles and responsibilities; governance and workflows; records, reporting, metrics, data quality, privacy, and interoperability; platforms, tooling, automation, integrations, resilience, and security controls.
+D. Demonstration of {{.client_name}} knowledge and best practices (refer to the client context document)
+   If a client language profile exists, use it to check whether the answer follows the client's vocabulary, tone, characteristic phrases, and language-to-avoid rules. Check ../tmp/ibm-bid-project.md for client_language_analysis_artifact first; if no tracker path is present, fall back to ../tmp/ibm-bid-client-language-analysis.md.
+E. Alignment with {{.proposal_name}} principles and guidelines
+
+    ]]></step_instruction>
+    <analysis_instructions><![CDATA[
+Conduct your detailed analysis inside <detailed_analysis> tags. Provide a detailed analysis of each of the evaluation criteria
+- List relevant quotes from both the context document and the proposed answer.
+- If a word limit applies, include the exact ibm-bid-word-count command, count, limit, and status. Penalise over-limit answers under relevance and recommend revision before submission.
+This will help ensure a thorough and transparent evaluation. It's acceptable for this section to be quite long.
+After your analysis, provide a detailed justification for your score and assign a score appropriate to the scoring criteria
+
+    ]]></analysis_instructions>
+    <output_format><![CDATA[
+Present your final evaluation in the following format:
+
+<evaluation>
+<justification>
+[Your detailed justification here]
+</justification>
+<score>
+[Your numerical score here based on the scoring criteria]
+</score>
+</evaluation>
+
+Ensure that your justification is thorough, directly relates to the scoring criteria and {{.proposal_name}} principles, and reflects the quality of the answer based on your analysis.
+
+    ]]></output_format>
+    <final_instruction><![CDATA[
+Please begin your evaluation now.
+Now, consider the following tender question:
+
+<tender_question>
+{{ tender_question }}
+</tender_question>
+
+And here is the proposed answer that you need to evaluate:
+
+    ]]></final_instruction>
+  </evaluation>
+</prompt>

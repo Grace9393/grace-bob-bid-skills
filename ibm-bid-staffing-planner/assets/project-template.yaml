@@ -1,0 +1,33 @@
+# Staffing Plan Configuration Template
+# Copy this to your working directory and customize for your bid
+
+# Total effort in hours (Discovery Cut estimate)
+dcut_hours: 10000
+
+# Location mix (must sum to 1.0)
+location_mix:
+  uk_mainline: 0.3    # UK-based resources
+  india_cic: 0.7      # India CIC resources
+
+# Contract type: time_and_materials or fixed_price
+contract_type: time_and_materials
+
+# Project complexity: low, medium, high
+# Affects team composition and required seniority
+project_complexity: medium
+
+# Duration constraint (optional)
+# target_duration_weeks: 52
+
+# Budget constraint (optional)
+# max_budget: 500000
+
+# Production deployment required
+touches_production: true
+
+# Target gross profit percentage (if applicable)
+# blended_gp_target_pct: 35
+
+# Additional constraints (optional)
+# min_team_size: 3
+# max_team_size: 12

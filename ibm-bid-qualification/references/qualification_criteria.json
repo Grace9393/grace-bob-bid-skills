@@ -1,0 +1,263 @@
+[
+  {
+    "id": "A",
+    "name": "Does the client have the structure and scale for a transformation?  (CLIENT MATURITY)",
+    "criteria": [
+      {
+        "number": 1,
+        "question": "Is there an existing incumbent? ",
+        "scoring": {
+          "1": "There is no incumbent ",
+          "2": "There is an incumbent and they're the preferred supplier",
+          "3": "There is an incumbent but we are unsure on the success of the project so far",
+          "4": "There is an incumbent but the client has expressed interest in us bidding as they are unhappy with the current supplier",
+          "5": "We are the incumbent"
+        }
+      },
+      {
+        "number": 2,
+        "question": "Is the organisation > 100 FTEs?  Or Finance > 150 FTEs?",
+        "scoring": {
+          "1": "No, <50FTEs",
+          "2": "No, >50 FTEs",
+          "3": "Yes, > 100 FTEs",
+          "4": "Yes, > 150 FTEs",
+          "5": "Yes, > 200 FTEs"
+        }
+      }
+    ]
+  },
+  {
+    "id": "B",
+    "name": "Has client identified a need to change? (CLIENT JUSTIFICATION)",
+    "criteria": [
+      {
+        "number": 3,
+        "question": "Has an op model review been done/ in progress/planned?",
+        "scoring": {
+          "1": "There is no op model",
+          "2": "There is plan to create an Op Model",
+          "3": "There is an Op Model in progress",
+          "4": "There is an Op Model",
+          "5": "Op Model done and we've built it"
+        }
+      },
+      {
+        "number": 4,
+        "question": "Is a technology upgrade planned/ inflight? ",
+        "scoring": {
+          "1": "There is no technology upgrade planned or inflight",
+          "2": "There is a plan to upgrade technilogy in the future",
+          "3": "Technology upgrades are in progress",
+          "4": "There is a roadmap to upgrade technology but we've not seen it",
+          "5": "Full technology roadmap that we helped build"
+        }
+      },
+      {
+        "number": 5,
+        "question": "Have they appointed a Leader?",
+        "scoring": {
+          "1": "There is no appointed leader/ we do not know if there is a leader",
+          "2": "There is a plan to be appoint a leader",
+          "3": "There is a leader but we don't know them",
+          "4": "There is a leader and we've had occasional contact",
+          "5": "There is a leader and we have a good relationship where we have the ability to gather intel on the opportunity "
+        }
+      }
+    ]
+  },
+  {
+    "id": "C",
+    "name": "Has client taken steps to change? (EMOTIONAL & BUYING MOMENTUM)",
+    "criteria": [
+      {
+        "number": 6,
+        "question": "Is there a compelling & recognised case for change?",
+        "scoring": {
+          "1": "We do not know/understand the business need for the solution",
+          "2": "We know the business need but not not believe it to be pressing/compelling",
+          "3": "We know the business need, it is compelling, but there are alternative approaches being considered by the customer",
+          "4": "There is a pressing businesss need and the customer has no viable alternatives to accepting one of the offers submitted",
+          "5": "There is a pressing business need for this solution and the potential for us to meet other business needs as a direct result of this proposal"
+        }
+      }
+    ]
+  },
+  {
+    "id": "D",
+    "name": "Do we have strong relationships and coach (Political Ally)?\u00a0 (RELATIONSHIP CONNECTIONS)",
+    "criteria": [
+      {
+        "number": 7,
+        "question": "Do we have strong relationships? Do we know who makes the selection decision and how they will decide?",
+        "scoring": {
+          "1": "We do not know the decision makes, there is a stronf incumbent",
+          "2": "We know who the decision makers are but have little to no relationship with them",
+          "3": "We know the decision makers and the process. We have some supporters within the customer but so do our competitors",
+          "4": "We know the decision makers and have good relationships with them. We believe we are strongly places",
+          "5": "We have an excellent relationship with the decision mkaers who are coaching/supporting us in the process"
+        }
+      },
+      {
+        "number": 8,
+        "question": "Do we understand the competitive and political landscape?  ",
+        "scoring": {
+          "1": "No",
+          "2": "We only understand the political or competitive landscape",
+          "3": "We understand parts of the political and competitive landscape ",
+          "4": "We have an understanding of both the competitive and political landscape",
+          "5": "We have a deep understanding of both the competitive and political landscape"
+        }
+      }
+    ]
+  },
+  {
+    "id": "E",
+    "name": "Do we have strong reputation with the client?\u00a0 (OUR REPUTATION)",
+    "criteria": [
+      {
+        "number": 9,
+        "question": "Do we have a record of strong delivery within this area of the client?",
+        "scoring": {
+          "1": "No, we have no record of delivery with this client",
+          "2": "No, we have an unsuccessful record of delivery with this client",
+          "3": "We have some record of strong delivery with this client and also some bad",
+          "4": "Yes, we have a strong record of delivery with some slightly troubled delivery",
+          "5": "Yes, we have a strong record of delivery "
+        }
+      },
+      {
+        "number": 10,
+        "question": "Have IBM been involved in any transformation work in the last 2 years with this area of the client?",
+        "scoring": {
+          "1": "No, IBM have not been involved in any transformation work",
+          "2": "Yes, but it was unsuccessful ",
+          "3": "We have completed transformation work within the last 2 years, however, there were some issues with the delivery",
+          "4": "We have completed successful transformation work within the last 2 years that has a good reputation",
+          "5": "Yes, we are currently involved in transformation work and it has a good reputation"
+        }
+      },
+      {
+        "number": 11,
+        "question": "Does IBM have a good reputation in this industry?",
+        "scoring": {
+          "1": "No, IBM has a poor reputation in this industry",
+          "2": "No, IBM has no reputation in this industry",
+          "3": "IBM has a reasonably good reputation in this industry with some issues in the past",
+          "4": "IBM has a good reputation in this industry with with no major issues",
+          "5": "Yes, IBM has an excellent reputation of delivery in this industry and are a trusted advisor for our clients"
+        }
+      },
+      {
+        "number": 12,
+        "question": "Do we have  specialism/ regulatory expertise and/or relevant product in the industry, e.g., promontory,  Pharma, drug dev. approval and release criteria. ",
+        "scoring": {
+          "1": "We have no specialism/ regulatory expertise and/or relevant product in the industry",
+          "2": "We have a relevant   specialism/ regulatory expertise and/or relevant product in the industry but the client do not want to utilise it",
+          "3": "We have a relevant   specialism/ regulatory expertise and/or relevant product in the industry but the client are currently unaware",
+          "4": "We have a relevant   specialism/ regulatory expertise and/or relevant product in the industry and the client will consider it ",
+          "5": "We have a relevant   specialism/ regulatory expertise and/or relevant product in the industry and we're the only ones who can provide it"
+        }
+      }
+    ]
+  },
+  {
+    "id": "F",
+    "name": "Do we have a differentiator relevant to the industry? (SOLUTION DIFFERENTIATORS)",
+    "criteria": [
+      {
+        "number": 13,
+        "question": "Do we have clear differentiators that are relevant to the industry or client?",
+        "scoring": {
+          "1": "We do not have any unique propositions relevant to this opportunity",
+          "2": "We believe we have some differentiatior but have not confirmed this with the client, we do not know our competitors differentiators",
+          "3": "We know our differentiations and our competitors",
+          "4": "We know our differentiations and our competitors and confirmed with the customer",
+          "5": "We know our differentiations and our competitors. The customer has incorporated some of our USPs into their requirements"
+        }
+      },
+      {
+        "number": 14,
+        "question": "Do we have an existing solution/product that closely matches the customer's requirement?",
+        "scoring": {
+          "1": "We do not have a solution that meets their requirements",
+          "2": "Our solutions and services meet some of the requirement but there are significant gaps",
+          "3": "Our solutions meet most of the requirement but require significant customisation or development to do so",
+          "4": "Our solution meets most of the requirement with little or no change, and all of the requirement with some customisation",
+          "5": "Our solution meets all of the requirements with no significant change"
+        }
+      },
+      {
+        "number": 15,
+        "question": "How do we stack up against the competition?",
+        "scoring": {
+          "1": "We do not know who tye other bidders are",
+          "2": "We know who the other bidders are, some are capable and credible. One of them is the incumbent",
+          "3": "We know who the other bidders are. We believe that we are the strongest. One of the other bidders is the incumbent.",
+          "4": "We are the incumbent or the customer has voiced clear intent to replace the incumbent. We know the other bidders and believe we are the strongest",
+          "5": "We are the only bidder or know all otheres are weak/uncompetitive. We are the incumbent"
+        }
+      }
+    ]
+  },
+  {
+    "id": "G",
+    "name": "Do we understand the client\u2019s buying process?\u00a0 (KNOWLEDEGE OF DECISION MAKING PROCESS)",
+    "criteria": [
+      {
+        "number": 16,
+        "question": "Are the timecales for the bid manageable?",
+        "scoring": {
+          "1": "We do not know the customer timescales",
+          "2": "We know the customer timescales ad they do not fit with our sales cycle. There is insufficient time for QA and review",
+          "3": "We know the customers timescales, and they do not fit within our sales cycle. We must re-assign resource from other bids to meet the timelines",
+          "4": "The timescale are realistic and allow for review and QA of the proposal. We ca resource the bid without disruption",
+          "5": "The timescales are realistic for us and we know that the competition will struggle to meet them."
+        }
+      },
+      {
+        "number": 17,
+        "question": "Is the opportunity the right size?",
+        "scoring": {
+          "1": "The opportunity is too small to be profitable, or more than 10 times the size of the nearest comparable win",
+          "2": "The opportunity is too small to be profitable, or more than 5 times the size of the nearest comparable win",
+          "3": "The opportunity is small, but opens the door for large opportunities, or more than 3 times the size of the nearest comparable win",
+          "4": "The opportunity is within the range of comparable wins in this service area",
+          "5": "The opportunity is within the range of comparable wins in this service area, and is strategically important in developing new lines of business"
+        }
+      },
+      {
+        "number": 18,
+        "question": "Can we price our solution within the customer's budget?",
+        "scoring": {
+          "1": "We do not know the customer's budget",
+          "2": "We have an idea of the customer's budget, but it is unrealistic/we will not be able to meet it",
+          "3": "We know the customer's budget. We think it will be unlikely we will be within it",
+          "4": "We know the customer's budget. We think we will be close to it (either above or below)",
+          "5": "We know the customer's budget and are confident that we will be within it"
+        }
+      },
+      {
+        "number": 19,
+        "question": "Do we have the relevant commercial Framework/ rate card in place compared to our competition?\u00a0",
+        "scoring": {
+          "1": "We are not on the customer's commercial framework",
+          "2": "We are on the commercial framework but do not have a competitive ratecard",
+          "4": "We are on the commercial framework and have won work with this customer with the ratecard",
+          "5": "We are on the commercial framework and have won work with this customer with the ratecard as it it more competitive than our competition"
+        }
+      },
+      {
+        "number": 20,
+        "question": "Does this deal involve Transfer of Aquired Rights (TUPE)",
+        "scoring": {
+          "1": "TUPE is involved and not capped",
+          "2": "Tupe is involved with over 10 people in scope",
+          "3": "Tupe is involved with 5-10 people in scope",
+          "4": "Tupe is involved with less than 5 people in scope",
+          "5": "No TUPE"
+        }
+      }
+    ]
+  }
+]

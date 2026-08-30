@@ -1,0 +1,33 @@
+### Deloitte
+
+- Deloitte derives pricing power by positioning itself as a full-service shop that bridges the gap between IT and business
+- Strong portfolio of pre-configured industry-specific solutions for rapid application transformation at scale
+- Perceived as one of the most mature providers in terms of technology transformation capability
+- Refrains from proactively revealing details on solution sizing / resource loading in RFP responses
+- Deloitte can make significant investments into an engagement leveraging its strong and “not under public scrutiny” balance sheets. Investments valuing as high as 7-8% of deal revenue for large bids have been seen
+- At times Deloitte has been observed to propose phase-wise pricing in SI/CSI deals. Advantage of phase-wise pricing is that it takes away the client microscopic attention to rate cards to that of broader level phase-wise pricing, which is difficult to compare as compared to T&amp;M pricing
+- Typically, hardline approach with less flexibility in contract T&amp;Cs. Observed to frequently do a lot of “red-lining” of SLAs and other T&amp;Cs, however, can make exceptions. In a recent bid, we observed Deloitte making concessions to even stringent security and compliance related SLAs, when it became clear, it was the only place left for Deloitte to win and close the deal
+- In sole sourced deals Deloitte tends to start with relatively higher initial rates, but they demonstrate a willingness to make reductions during negotiations. As a result, the final rates offered become competitive, reflecting their adaptability and commitment to securing favorable terms for their clients
+- Puts real “skin in the game” by proposing outcome-based pricing in SI/CSI deals, thereby differentiating from competition and enhancing the chances of further upside in pricing
+- Comfortable with proposing XLAs to show commitment and Business level agreements (BLAs) to clients
+- Has been putting multiple investments in competitive AO bids as means of financial engineering tools like service credit mechanism, investments in accelerators (IPs) and transition waivers etc.
+- At times, it proposes same rate card across phases - Design &amp; Advisory, and Technical implementation. While this may result in a competitive fees for the initial Design/Foundation phase, the overall fees can shoot up due to typical effort overruns happening in large and complex implementations like SAP S/4 HANA, Oracle HCM etc.
+- Deloitte derives pricing power by positioning itself as a full-service shop that bridges the gap between IT and business behaviour
+- Strong portfolio of pre-configured industries solutions for rapid application transformation at scale
+- Perceived as one of the most mature providers in terms of technology transformation capability
+- Refrains from proactively revealing details on solution sizing / resource loading in RFP responses
+- Deloitte can make significant investments into an engagement leveraging its strong and “not under public scrutiny” balance sheets. Investments valuing as high as 7-8% of deal revenue for large bids have been seen
+- Has been going aggressive in ADM deals to strengthen its managed services portfolio. Has the tendency of often going all-in in large ADM deals by proposing aggressive value adds/investments, sharp solution sizing, high degree of productivity commitments, and competitive pricing
+- Competitive pricing strategy being observed even within the engineering services sector
+- In SI/CSI deals, often observed to share black-boxy pricing, with minimal disclosure of P and Q separately, i.e., most of the times it refrains from sharing detailed resource loading. For strategic clients and in large ERP transformation scenarios it proposes relatively aggressive T&amp;M rates (significantly lower than other consulting heritage providers)
+- Has been observed to imbibe significant chunk of volume discounts within the FTE rates itself to make those competitive
+- Typically charges premium for roles involved in thought leadership, tech advisory, and program governance
+- At times Deloitte has been observed to propose phase-wise pricing in SI/CSI deals. Advantage of phase-wise pricing is that it takes away the client microscopic attention to rate cards to that of broader level phase-wise pricing, which is difficult to compare as compared to T&amp;M pricing
+- In digital engagements it positions itself as a strategic partner with its “consult-to-operate” model. Deloitte leverages strong experience in C-suite advisory which differentiate it from its peers
+- Typically, hardline approach with less flexibility in contract T&amp;Cs. Observed to frequently do a lot of “red-lining” of SLAs and other T&amp;Cs, however, can make exceptions. In a recent bid, we observed Deloitte making concessions to even stringent security and compliance related SLAs, when it became clear, it was the only place left for Deloitte to win and close the deal
+- In sole sourced deals Deloitte tends to start with relatively higher initial rates, but they demonstrate a willingness to make reductions during negotiations. As a result, the final rates they offer become competitive, reflecting their adaptability and commitment to securing favourable terms for their clients
+- In ADM deals, it is observed to leverage shoring mix at par with any other tier 1 service provider
+- Has been proposing Mexico as a nearshore location in many US-originated deals. However, charges very high for Mexico when compared to other service providers
+- Puts real “skin in the game” by proposing outcome-based pricing in SI/CSI deals, thereby differentiating from competition and enhancing the chances of further upside in pricing
+- Model	Comfortable with proposing XLAs to show commitment to clients
+- Has been putting multiple investments in competitive bids as means of financial engineering tools.

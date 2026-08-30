@@ -1,0 +1,33 @@
+### Accenture
+
+- Positions itself as a business transformation partner, especially in Complex System Integration (CSI) opportunities
+- Instances seen where Accenture when not a major incumbent set itself up to be eliminated by participating only in a part of the large RFPs
+- Consistently brings in transformation story even in the solution for ADM opportunities, thereby making space for higher margin resources
+- Has a very strong executive presence and leverages existing incumbency largely to its favour during its storytelling
+- Invests heavily in client relationships and is observed to have better connects with enterprise business stakeholders than most peers
+- Known to be rigid in commercial negotiations. Renowned for making extensive red marking on client legal templates. Often fine to get eliminated rather than agreeing to very stringent T&amp;Cs from clients
+- Often brings in a third avoid further client negotiation in large multi-party advisor to benchmark their pricing/solution when confident of market competitiveness to -tower AO/SI engagements with their marquee enterprise clients
+- Transformation play and proactive digital intervention on new SI/CSI deals helps them keep multiple deals to be sole sourced
+- Frequency of proposing outcome/output-based commercial models in deals is lesser, when compared to other consulting heritage service providers
+- There is strong conviction in certain quarters of Accenture leadership that they can make more profits by the pricing model aligned to time and material
+- Prone to heavily leverage traditional commercial models prevalent in the market for ADM/ SI/ Consulting deals
+- Started proposing outcome-based models in certain generative AI pilot projects especially in large deals
+- Actively pushing to develop and monetize assets and platforms it has been developing over the years. Spearheaded primarily through their consulting practice
+- Pricing moves fluidly between global providers and consulting heritage providers depending on the deal context. In sole-sourced opportunities, their pricing is observed to be at times even higher than the Big 4s, however, in competitive opportunities and in strategic deals, pricing can be very aggressive
+- Accenture’s pricing for DACH region and Japan is found to be consistently high across services
+- Has been observed to propose similar rates for India and Philippines in multiple deals indicating toward its intention to grow capability in the Philippines center
+- Accenture is found to be leveraging China as nearshore in SI/CSI deals for APAC clients, however, the associated pricing is consistently found to be high
+- In ADM deals, especially when those are large-sized, Accenture can be very aggressive in both pricing as well as solutioning. Their pricing is observed to be even lower than Indian heritage providers, in some scenarios
+- In SI/CSI deals, it typically maintains premium pricing, especially in sole-sourced opportunities. Usually brings in heavy PMO/governance, Business process advisor, UX Design, etc. layer in CSI deals. It brings in and positions the resources from consulting services arm as differentiator in deals
+- In Cloud transformation opportunities Accenture is found to be aggressive in areas that have got commoditized over years such as Rehosting, Replatforming/Containerization, etc.
+- Known to be rigid in commercial negotiations. Renowned for making extensive red marking on client legal templates. Often fine to get eliminated rather than agreeing to very stringent T&amp;Cs from clients
+- Often brings in a third-party advisor to benchmark their pricing/solution when confident of market competitiveness to avoid further client negotiation
+- Transformation play and digital intervention on new deals helps keep multiple deals sole-sourced
+- Has good location presence across geographies, resulting in deployment of an equitable mix of onsite, onshore, nearshore, and offshore resources depending on regional and client sensitivities
+- Accenture has added 11 new service delivery locations across the world, which enables it to support both nearshore-heavy and offshore-heavy contracts
+- Not observed to propose separate rate card for Local and Landed resources at onshore
+- Has been trying to focus on Japan and using Philippines as a delivery center to support Japanese clients
+- Frequency of proposing outcome/output-based commercial models in deals is lesser, when compared to Big 4 service
+- There is strong conviction in certain quarters of Accenture leadership that they can make more profits by the pricing model aligned to time and material
+- Prone to leverage traditional commercial models prevalent in the market for ADM/ SI/ Consulting deals
+- Started proposing outcome-based models in certain GenAI projects.

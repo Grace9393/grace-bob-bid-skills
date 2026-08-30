@@ -1,0 +1,36 @@
+### Capgemini
+
+- Considered as a strong orchestrator of transformation, but the transformation-oriented positioning is not yet at the same level as some of the consulting heritage providers
+- With its global expansion, it not perceived as a Europe specific player anymore, which showcases a marked shift in positioning
+- Often seen to falter when it comes to articulating the strength of its solution, making Capgemini as “weak storyteller” at times. In competitive scenarios where Capgemini is already an incumbent, it finds hard to bring anything new to the table
+- Has started proactively contracting for Generative AI related impact in recent managed services engagements
+- Tendency to classify more skills as premium or niche, which does have an impact on its overall commercials value prop
+- Perceived as a “premium pricing” vendor in comparison to Indian heritage providers and has used that to its advantage to often go very competitive in bids. Especially the India (offshore) rates are found to be very competitive and most of the times lower than Indian heritage providers
+- Has very strong capability and credibility in Europe often giving competitive offshore or nearshore (Europe) rates in deals. However, relatively high pricing seen for Mexico
+- Capgemini’s pricing for LATAM has been unoptimized for quite sometime. In many deals, its pricing for Brazil was seen to be much lower than Mexico and sometimes even closer to India
+- Does not have a very strong market in middle east or APAC, although, in pursuit of its expansion strategy, in a few APAC bids it is observed to be proposing lower pricing than even the most price aggressive providers in the market
+- Compared to its global competitors, the price difference between CSI/SI and ADM roles is relatively low for similar kind of roles
+- In AMS deals, fixed fee has started coming off high in deals due to conservative solutioning. Has been observed to propose complex pricing models to make direct comparison of rates with other provides difficult
+- In SI deals, solutioning approach is methodical, although refrains from using a thick consulting layer
+- Although it has credible IP for consulting, it lacks in breadth of internal IP as compared to its peers
+- Capgemini Engineering services (Altran) has among the best breadth and depth from an industry coverage standpoint, where its pricing has been found to be competitive compared to Accenture’s Industry X offerings or boutique engineering firms
+- While it takes a cautious approach with respect to conforming to the stringent T&amp;Cs or SLAs requested by clients during initial RFP rounds, it is generally flexible while negotiating during contracting stage
+- Has strong capabilities in Tier 2 cities in Europe; Often proposes relatively less matured nearshore locations such as Portugal in deals, which turns to its advantage in service centre setup scenarios as it makes difficult for enterprises to switch to other providers at a later stage (if needed)
+- Typically goes with an aggressive offshore/nearshore proportion in ADM deals. Leverages Brazil, Mexico, and Philippines apart from India and Eastern Europe
+- Vietnam is being used as a low-cost delivery centre for BFSI. It is also used as offshore for French clients
+- Extensively uses output guaranteeing clear outcomes-based pricing for ADM deals but lacks experience in outcome-based models, wherein it refrains from
+- Has the tendency to offer key SME resources for a fee/at discount as an investment lever
+- Generally, risk averse when it comes to proposing very aggressive value-adds (e.g., higher transformation fund, tool investments, etc.)
+- It has a rich repository of SMART KPIs or business process focused SLAs, however, have not been seen to be proactive in terms of contracting for those metrics
+- Considered as a strong orchestrator of transformation, but the transformation-oriented positioning is not yet at the same level as some of the consulting heritage providers
+- With its APAC expansion through acquisitions, it is not perceived as a Europe specific player anymore, which showcases a marked shift in positioning
+- Often seen to falter when it comes to articulating the strength of its integrated ADM solution, making Capgemini as “weak storyteller” at times in competitive scenarios where Capgemini is already an incumbent
+- Has started proactively contracting for Generative AI related impact in recent managed services AO engagements across Europe and NA based deals
+- Tendency to classify more skills as premium or niche, which strongly impacts its overall commercials value proposition
+- While it takes a cautious approach with respect to conforming to the stringent T&amp;Cs or SLAs requested by clients during initial RFP rounds, it is generally seen to be flexible while negotiating during contracting stage in both SI and AO deals
+- For large sized SI/CSI deals, Capgemini proposes innovation and transformation fund mechanism as their investments to sponsor experiments and innovation discovery activities
+- Often brings comprehensive considerations backed with digital platforms for transition response in a multi-vendor AO deal and comfortable working with incumbent vendors
+- Extensively uses output-based pricing for ADM deals but lacks experience in outcome-based models, wherein it refrains from guaranteeing clear outcomes
+- Has the tendency to offer key SME resources for a fee/at discount as an investment lever
+- Generally, risk averse when it comes to proposing aggressive value-adds in SI/CSI deals (e.g., higher transformation fund, tool investments, etc.)
+- It has a rich repository of SMART KPIs or business process focused SLAs, however, have not been seen to be proactive in terms of contracting for those metrics

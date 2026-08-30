@@ -1,0 +1,128 @@
+# Competitor Analysis Scope
+
+Built using `ibm-question-decomposer-direct` with:
+
+- `Framework`: `components`
+- `Depth`: `2`
+- `Breadth`: `10`
+- `Maturity Mode`: `off`
+- `Output Format`: `markdown`
+
+## Structure Summary
+
+- `Top-level Questions`: `10`
+- `Children Per Parent`: `10`
+- `Leaf Count`: `100`
+
+## Tree
+
+- `1` Which competitor types are most likely to appear in this bid?
+  - `1.1` Is there an incumbent supplier and what structural retention advantage do they hold?
+  - `1.2` Which global consultancies or SIs are credible contenders for this scope?
+  - `1.3` Which platform-native specialists could be shortlisted because of domain alignment?
+  - `1.4` Which niche SMEs or specialist boutiques could outperform on focus or flexibility?
+  - `1.5` Which managed-service or BPO providers could compete if the buyer prioritises run-cost reduction?
+  - `1.6` Which low-cost offshore-led providers could compete on price or scale?
+  - `1.7` Which framework-approved suppliers are plausible opportunistic bidders even without deep delivery differentiation?
+  - `1.8` Which advisory firms could convert strategy presence into delivery contention?
+  - `1.9` Which consortium or partner-led combinations could emerge as hybrid competitors?
+  - `1.10` Which dark-horse suppliers could appear because of recent client, sector, or technology moves?
+- `2` How does the buyer context shape competitor advantage?
+  - `2.1` Which stated buyer outcomes naturally favour a competitor over IBM?
+  - `2.2` Which evaluation criteria are most likely to separate competitors in this procurement?
+  - `2.3` Does the buyer appear to prefer transformation, BAU stability, or a balanced posture?
+  - `2.4` How risk-averse is the buyer likely to be in supplier selection?
+  - `2.5` How does the procurement route or framework structure advantage particular competitor types?
+  - `2.6` Which stakeholder politics or internal sponsorship patterns could steer the award?
+  - `2.7` Which location, clearance, sovereignty, or regulatory constraints favour some rivals?
+  - `2.8` How important are social value, local presence, or public-sector credibility in competitor positioning?
+  - `2.9` Which budget or commercial constraints make certain rival models more attractive?
+  - `2.10` Which parts of the opportunity are likely to be decided by proof rather than promises?
+- `3` What relationship position does each competitor hold with the client?
+  - `3.1` Which competitors have current delivery relationships with the buyer?
+  - `3.2` Which competitors have executive or stakeholder access that IBM may lack?
+  - `3.3` Which competitors have recent advisory or discovery footprint that shapes the requirement?
+  - `3.4` Which competitors may have influenced the scope, architecture, or evaluation framing?
+  - `3.5` Which competitors have existing partner or alliance relationships with the client?
+  - `3.6` Which competitors are likely to be perceived as safer due to familiarity or continuity?
+  - `3.7` Which competitors could exploit switching-cost fears or transition anxiety?
+  - `3.8` Which competitors are weakened by poor prior delivery or strained relationships?
+  - `3.9` Which competitors benefit from sector reputation even without direct client access?
+  - `3.10` Which relationship gaps can IBM exploit to reposition the field?
+- `4` How strong is each competitor's likely offer and solution strategy?
+  - `4.1` Which competitors can present the most buyer-aligned solution narrative?
+  - `4.2` Which competitors can most credibly tailor to the sector or domain?
+  - `4.3` Which competitors are strongest on platform depth, architecture, or product alignment?
+  - `4.4` Which competitors can package innovation or AI in a way the buyer will believe?
+  - `4.5` Which competitors can simplify the offer into a lower-perceived-risk proposal?
+  - `4.6` Which competitors are likely to over-engineer or overscope the solution?
+  - `4.7` Which competitors can combine advisory, implementation, and run services most convincingly?
+  - `4.8` Which competitors may rely too heavily on generic methods or recycled boilerplate?
+  - `4.9` Which competitors can turn partner ecosystems into a differentiated offer?
+  - `4.10` Which solution gaps should IBM emphasise when contrasting against rivals?
+- `5` How credible is each competitor's delivery model and execution story?
+  - `5.1` Which competitors look strongest on mobilisation speed and transition confidence?
+  - `5.2` Which competitors look strongest on delivery governance and programme control?
+  - `5.3` Which competitors can evidence similar scale, complexity, and sector delivery?
+  - `5.4` Which competitors can field the most credible named or archetypal team?
+  - `5.5` Which competitors can reassure the buyer on service continuity and operational resilience?
+  - `5.6` Which competitors are vulnerable on resource depth, attrition, or specialist capacity?
+  - `5.7` Which competitors have delivery models that may feel too offshore, too centralised, or too inflexible?
+  - `5.8` Which competitors can best handle compliance, security, and assurance expectations?
+  - `5.9` Which competitors can most convincingly offer continuous improvement after go-live?
+  - `5.10` Which execution weaknesses can IBM exploit without sounding generic or defensive?
+- `6` What commercial behaviour is each competitor likely to show?
+  - `6.1` Which competitors are most likely to undercut on day-one price?
+  - `6.2` Which competitors are most likely to trade margin for logo, sector entry, or renewal protection?
+  - `6.3` Which competitors can bundle services in ways that distort like-for-like comparison?
+  - `6.4` Which competitors are likely to win by framing total cost rather than headline price?
+  - `6.5` Which competitors will present stronger gainshare, outcome-based, or risk-sharing models?
+  - `6.6` Which competitors are likely to hide recovery costs in change control or future phases?
+  - `6.7` Which competitors can absorb mobilisation or transition costs more aggressively than IBM?
+  - `6.8` Which competitors may look attractive commercially but fragile operationally?
+  - `6.9` Which competitors can exploit pricing ambiguity in the procurement pack?
+  - `6.10` Which IBM commercial responses most effectively neutralise likely rival tactics?
+- `7` What proof, evidence, and narrative assets will competitors use?
+  - `7.1` Which competitors can cite the most relevant sector case studies?
+  - `7.2` Which competitors can produce the strongest quantified outcomes for similar work?
+  - `7.3` Which competitors can present the cleanest compliance and assurance credentials?
+  - `7.4` Which competitors can leverage analyst, partner, or market credibility most effectively?
+  - `7.5` Which competitors can use incumbent knowledge as implicit evidence of lower risk?
+  - `7.6` Which competitors are likely to rely on vague claims that IBM can out-evidence?
+  - `7.7` Which competitors can tell the most persuasive transformation story for this buyer?
+  - `7.8` Which competitors can make local presence, public value, or workforce narrative land better?
+  - `7.9` Which competitor proof points are likely to resonate with evaluators even if technically weak?
+  - `7.10` Which IBM proof gaps must be closed to avoid losing on credibility?
+- `8` How will competitors probably attack IBM?
+  - `8.1` Will they position IBM as too expensive relative to alternatives?
+  - `8.2` Will they position IBM as too complex or over-engineered for the requirement?
+  - `8.3` Will they position IBM as too generic or insufficiently specialised in the buyer's domain?
+  - `8.4` Will they position IBM as lower-risk only on paper but weaker on practical delivery intimacy?
+  - `8.5` Will they attack IBM's use of offshore or blended delivery assumptions?
+  - `8.6` Will they attack IBM's evidence base as impressive but not client-relevant enough?
+  - `8.7` Will they attack IBM's AI or innovation narrative as hype rather than execution value?
+  - `8.8` Will they attack IBM's transition, change, or stakeholder adoption credibility?
+  - `8.9` Will they attack IBM's commercial model as rigid or loaded with future cost?
+  - `8.10` Which attack lines are most dangerous because the current IBM draft leaves them unanswered?
+- `9` How should IBM counter-position against likely competitors?
+  - `9.1` Which win themes most effectively reduce incumbent or scale-led advantage?
+  - `9.2` Which differentiators should IBM emphasise against global SI competitors?
+  - `9.3` Which differentiators should IBM emphasise against niche specialists or SMEs?
+  - `9.4` Which proof points should IBM insert to neutralise likely credibility attacks?
+  - `9.5` Which response sections should be rewritten to close open competitor attack surfaces?
+  - `9.6` Which solution choices should IBM simplify, bound, or reframe to reduce buyer anxiety?
+  - `9.7` Which commercial messages should IBM use to defend value against price-led rivals?
+  - `9.8` Which stakeholder actions should IBM take outside the written response to shift perception?
+  - `9.9` Which clarification questions could expose competitor weakness or buyer uncertainty?
+  - `9.10` Which rebuttals should IBM avoid because they sound reactive, negative, or unsupported?
+- `10` What decisions and actions should come out of the competitor analysis?
+  - `10.1` Which competitor or archetype is the primary threat to winning this opportunity?
+  - `10.2` Which competitor should shape IBM's baseline bid strategy even if not confirmed?
+  - `10.3` Which competitor assumptions are strong enough to act on immediately?
+  - `10.4` Which competitor hypotheses need validation before IBM changes the bid materially?
+  - `10.5` Which bid sections should be prioritised for black-hat rewrite?
+  - `10.6` Which proof assets or customer stories should be sourced next?
+  - `10.7` Which commercial decisions should be escalated because of competitor pressure?
+  - `10.8` Which delivery or staffing choices should be revisited because of rival positioning?
+  - `10.9` Which red flags suggest IBM should narrow scope, reposition, or reconsider the pursuit?
+  - `10.10` Which three actions would most increase IBM's win probability in the next 48 hours?

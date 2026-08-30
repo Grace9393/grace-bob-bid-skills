@@ -1,0 +1,82 @@
+pack_id: "client-proposal-2026-04"
+pack_version: "3"
+client_name: "Example Client"
+proposal_name: "Managed Services Proposal"
+opportunity_name: "Managed Services Reprocurement"
+client_context: |
+  Example Client wants a low-risk mobilisation with strong governance and clear
+  accountability from day one.
+hot_buttons:
+  - Low delivery risk
+  - Clear accountability
+win_themes:
+  - Proven mobilisation with named governance controls
+proposal_principles:
+  - Buyer protection first
+approved_proof_points:
+  - IBM has delivered comparable managed service transitions.
+banned_claims:
+  - Best in class
+preferred_structure:
+  - Executive summary
+  - Approach
+  - Governance
+  - Evidence
+dimensions:
+  word_count:
+    enabled: true
+    weight: 0.10
+  factual_accuracy:
+    enabled: true
+    weight: 0.25
+  criteria_alignment:
+    enabled: true
+    weight: 0.40
+  question_coverage:
+    enabled: true
+    weight: 0.25
+optimization:
+  model: "openai/gpt-oss-20b"
+  max_iterations: 3
+  convergence_threshold: 0.02
+  temperature: 0.7
+  max_tokens: 1024
+policy_source_refs:
+  - path: policy/writing-style-guide.md
+  - path: policy/quality-checklist.md
+policy_defaults:
+  source_skill: ibm-bid-writer
+  style_rules:
+    tone: "Formal, evaluator-facing, British English"
+    avoid_generic_marketing_language: true
+    use_will_for_supported_commitments: true
+    prefer_named_mechanisms_over_adjectives: true
+  structure_rules:
+    mirror_buyer_numbering: true
+    preferred_sequence:
+      - promise
+      - mechanism
+      - proof
+      - buyer_protection
+    confidence_section_policy: required_if_substantial
+    preserve_required_headings: true
+  evidence_rules:
+    evidence_priority:
+      - account_specific_evidence
+      - named_team_credibility
+      - public_sector_precedent
+      - broader_capability_proof
+    require_named_mechanisms: true
+    require_quantified_outcomes_where_available: true
+    require_source_provenance_for_claims: true
+  rewrite_guardrails:
+    preserve_named_mechanisms: true
+    preserve_repeated_bid_themes: true
+    preserve_banned_claims_list: true
+    do_not_weaken_supported_commitments: true
+    preserve_british_english: true
+source_documents:
+  - kind: rfp
+    title: "Main ITT"
+    location: "/tmp/example-itt.pdf"
+    notes: "Primary scoring source"

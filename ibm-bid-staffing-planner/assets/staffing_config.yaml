@@ -1,0 +1,286 @@
+# Staffing Optimiser — Default Configuration
+# Copy to your project directory with: staffing-or init-config
+# Then edit to match your organisation's rates and roles.
+
+# Seniority levels — fully configurable, add/rename/remove as needed
+seniority_levels:
+  apprentice:
+    description: "0-1 years. Learning fundamentals. Needs close supervision."
+    productivity: 0.40
+    prg: 4
+    bandmix_weighting: 4
+  graduate:
+    description: "0-1 years. Learning fundamentals. Needs close supervision."
+    productivity: 0.40
+    prg: 5
+    bandmix_weighting: 5
+  junior:
+    description: "1-3 years. Delivers well-defined tasks. Requires regular mentoring."
+    productivity: 0.60
+    prg: 6
+    bandmix_weighting: 6
+  cic_junior:
+    description: "1-3 years. CIC junior (6A) with distinct experience/rate profile."
+    productivity: 0.58
+    prg: 6A
+    bandmix_weighting: 6.0
+  cic_upper_junior:
+    description: "2-4 years. CIC upper junior (6B) with distinct experience/rate profile."
+    productivity: 0.64
+    prg: 6B
+    bandmix_weighting: 6.5
+  mid:
+    description: "3-6 years. Works independently. Delivers features of moderate complexity."
+    productivity: 0.80
+    prg: 7
+    bandmix_weighting: 7
+  cic_mid:
+    description: "3-6 years. CIC mid (7A) with distinct experience/rate profile."
+    productivity: 0.78
+    prg: 7A
+    bandmix_weighting: 7.0
+  cic_upper_mid:
+    description: "4-7 years. CIC upper mid (7B) with distinct experience/rate profile."
+    productivity: 0.84
+    prg: 7B
+    bandmix_weighting: 7.5
+  senior:
+    description: "6-10 years. Leads technical solutions. Mentors juniors and mids."
+    productivity: 1.00
+    prg: 8
+    bandmix_weighting: 8
+  lead:
+    description: "8+ years. Leads complex technical solutions. Mentors all levels. Provides technical leadership."
+    productivity: 0.70
+    prg: 9
+    bandmix_weighting: 9
+  associate_partner:
+    description: "12+ years. Senior leadership. Client relationship management. Accountable for project success."
+    productivity: 0.50
+    prg: 10
+    bandmix_weighting: 10
+  executive:
+    description: "14+ years. Lead Client Partner. Accountable for project success. Drives client relationships and strategic decisions."
+    productivity: 0.50
+    prg: D
+    bandmix_weighting: 11
+
+# Roles — map each role to a seniority level and a role type
+# Role types:
+#   doer       — delivers core build effort
+#   doer_lead  — delivers work AND counts as leadership overhead (lead)
+#   leadership — governance/management (PM, DM, SM); costs run for full project duration
+#   supporting — expanded delivery scope (testing, BA, migration, enablement, operations)
+# Optional allocation controls per role:
+#   min_allocation_fraction   — minimum share of a full-time person (default 1.0)
+#   fixed_allocation_fraction — fixed share (if set, overrides min for current solver)
+roles:
+  graduate_dev:
+    display_name: "Graduate Developer"
+    type: doer
+    seniority: graduate
+  junior_dev:
+    display_name: "Junior Developer"
+    type: doer
+    seniority: junior
+  mid_dev:
+    display_name: "Mid-level Developer"
+    type: doer
+    seniority: mid
+  senior_dev:
+    display_name: "Senior Developer"
+    type: doer
+    seniority: senior
+  lead:
+    display_name: "Lead"
+    type: doer_lead
+    seniority: lead
+  executive_partner:
+    display_name: "Executive"
+    type: leadership
+    seniority: executive
+    min_allocation_fraction: 0.10
+  associate_partner:
+    display_name: "Associate Partner"
+    type: leadership
+    seniority: associate_partner
+    min_allocation_fraction: 0.10
+  scrum_master:
+    display_name: "Scrum Master"
+    type: leadership
+    seniority: mid
+  delivery_mgr:
+    display_name: "Delivery Manager"
+    type: leadership
+    seniority: senior
+  project_mgr:
+    display_name: "Project Manager"
+    type: leadership
+    seniority: senior
+    fixed_allocation_fraction: 1.0
+  lead_architect:
+    display_name: "Lead Architect"
+    type: leadership
+    seniority: lead
+  pmo:
+    display_name: "PMO"
+    type: leadership
+    seniority: mid
+  data_security_privacy:
+    display_name: "Data Security & Privacy"
+    type: leadership
+    seniority: mid
+  data_security_privacy_junior:
+    display_name: "Data Security & Privacy Analyst"
+    type: leadership
+    seniority: junior
+  business_analyst:
+    display_name: "Business Analyst"
+    type: supporting
+    seniority: mid
+  solution_architect:
+    display_name: "Solution Architect"
+    type: supporting
+    seniority: lead
+  tester:
+    display_name: "Tester"
+    type: supporting
+    seniority: mid
+  test_lead:
+    display_name: "Test Lead"
+    type: supporting
+    seniority: senior
+  configuration_specialist:
+    display_name: "Configuration Specialist"
+    type: supporting
+    seniority: mid
+  data_migration_specialist:
+    display_name: "Data Migration Specialist"
+    type: supporting
+    seniority: mid
+  change_manager:
+    display_name: "Change Manager"
+    type: supporting
+    seniority: senior
+  technical_architect:
+    display_name: "Technical Architect"
+    type: supporting
+    seniority: lead
+  integration_lead:
+    display_name: "Integration Lead"
+    type: supporting
+    seniority: senior
+  integration_architect:
+    display_name: "Integration Architect"
+    type: supporting
+    seniority: lead
+  service_manager:
+    display_name: "Service Manager"
+    type: supporting
+    seniority: senior
+  support_engineer:
+    display_name: "Support Engineer"
+    type: supporting
+    seniority: mid
+  devops_engineer:
+    display_name: "DevOps Engineer"
+    type: supporting
+    seniority: mid
+  devops_lead:
+    display_name: "DevOps Lead"
+    type: supporting
+    seniority: senior
+
+# Delivery locations — free-form names, each with its own working hours
+# Any number of locations can be defined here and referenced in rate_cards and --location-mix
+locations:
+  uk_mainline:
+    display_name: "UK Mainline"
+    weekly_hours: 40
+    currency: GBP
+    availability: 0.90      # 90% weekly availability (UK bank holidays, typical leave patterns)
+    price_multiplier: 1.0   # Set to e.g. 1.4 to charge clients at 40% margin above cost
+  uk_cic:
+    display_name: "UK CIC"
+    weekly_hours: 40
+    currency: GBP
+    availability: 0.90      # same as mainline
+    price_multiplier: 1.0
+  india_cic:
+    display_name: "India CIC"
+    weekly_hours: 45
+    currency: GBP           # all rates expressed in GBP equivalent
+    availability: 0.95      # 95% weekly availability (shift patterns, fewer formal leave days)
+    price_multiplier: 1.0
+
+# Rate cards — hourly rates per location per seniority level (in GBP unless specified)
+# Roles inherit the rate of their mapped seniority level for the applicable location
+rate_cards:
+  uk_mainline:
+    graduate:   40
+    junior:     60
+    mid:       120
+    senior:    160
+    lead:      220
+    associate_partner: 300
+    executive: 300
+  uk_cic:
+    graduate:   60
+    junior:     60
+    mid:       120
+    senior:    160
+    lead:      160
+    associate_partner: 120
+    executive: 120
+  india_cic:
+    graduate:   0
+    junior:    10
+    mid:       20
+    senior:    20
+    lead:       40
+    associate_partner:  60
+    executive:  140
+
+# Optional band-mix mapping for reporting only:
+# location -> source seniority -> target seniority split (weights must sum to 1.0)
+# Use this when one billable seniority should be represented as multiple internal bands.
+bandmix_mappings:
+  india_cic:
+    junior:
+      cic_junior: 0.50
+      cic_upper_junior: 0.50
+    mid:
+      cic_mid: 0.50
+      cic_upper_mid: 0.50
+  uk_cic:
+    junior:
+      cic_junior: 0.50
+      cic_upper_junior: 0.50
+    mid:
+      cic_mid: 0.50
+      cic_upper_mid: 0.50
+
+# Governance and mandatory-role rules (all thresholds are DCUT hours)
+governance_rules:
+  ap_project_hours_threshold: 5000
+  # For projects below this threshold, lead-architect coverage may be provided by
+  # a senior delivery/supporting resource instead of a dedicated lead_architect role.
+  lead_architect_senior_substitution_hours_threshold: 1000
+  ap_full_time_hours_threshold: 5000
+  pm_small_project_hours_threshold: 2000
+  pmo_project_hours_threshold: 2000
+  dsp_junior_support_hours_threshold: 5000
+  pm_small_project_allocation_fraction: 0.5
+  min_exec_ap_time_share: 0.05
+  max_exec_ap_time_share: 1.0
+  accountable_headcount: 1
+  max_ap_headcount_ap_accountable: 6
+  ap_large_project_allocation_fraction: 1.0
+  executive_role_key: executive_partner
+  associate_partner_role_key: associate_partner
+  project_manager_role_key: project_mgr
+  pmo_role_key: pmo
+  dsp_role_key: data_security_privacy
+  dsp_junior_role_key: data_security_privacy_junior
+  dsp_junior_location_key: india_cic
+  accountable_location_key: uk_mainline

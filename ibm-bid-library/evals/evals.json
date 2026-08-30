@@ -1,0 +1,89 @@
+{
+  "skill_name": "ibm-bid-library",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Find IBM bid library entries about cloud migration governance and oversight. I need content about how IBM manages cloud migration programmes for large enterprises.",
+      "expected_output": "A set of cited bid library entries (with entry ID, title, and doc path) about cloud migration governance, programme management, and oversight for large enterprises. Should include expanded FTS5 queries and at least 3 relevant results.",
+      "files": [],
+      "assertions": [
+        {
+          "text": "Response includes at least 3 cited bid library entries with numeric entry IDs",
+          "id": "minimum-3-results"
+        },
+        {
+          "text": "Response includes doc paths in the format docs/{id}.docx for source verification",
+          "id": "cites-doc-paths"
+        },
+        {
+          "text": "Response shows query expansion with FTS5 synonym variants before searching",
+          "id": "query-expansion-present"
+        },
+        {
+          "text": "Response uses search.py script (not raw SQL) for database access",
+          "id": "used-search-script"
+        },
+        {
+          "text": "Results are topically relevant to cloud migration governance or programme management",
+          "id": "topical-relevance"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "prompt": "We're responding to a tender that asks about IBM's approach to cyber security assessments. Search the bid library and give me the best 3 examples we could reference.",
+      "expected_output": "Exactly 3 bid library entries about cyber security assessments, with entry ID, title, doc path, and a brief explanation of why each is relevant. Should show query expansion before searching.",
+      "files": [],
+      "assertions": [
+        {
+          "text": "Response provides exactly 3 bid library entries as requested",
+          "id": "exactly-3-examples"
+        },
+        {
+          "text": "Response includes numeric entry IDs for all 3 examples",
+          "id": "cites-entry-ids"
+        },
+        {
+          "text": "Response includes docs/{id}.docx source paths for all 3 examples",
+          "id": "cites-doc-paths"
+        },
+        {
+          "text": "Each example includes an explanation of why it is relevant to the tender",
+          "id": "relevance-explained"
+        },
+        {
+          "text": "Response shows query expansion with security-related FTS5 synonym variants",
+          "id": "query-expansion-present"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "I'm writing a section on agile delivery methodology — find past bid answers that explain how IBM runs agile at scale, sprint ceremonies, and delivery cadence.",
+      "expected_output": "Cited bid library entries about IBM's agile delivery approach, covering topics like scaled agile, sprint ceremonies, and delivery cadence. Should include multiple relevant results with proper citations.",
+      "files": [],
+      "assertions": [
+        {
+          "text": "Response includes at least 3 cited bid library entries with numeric entry IDs",
+          "id": "minimum-3-results"
+        },
+        {
+          "text": "Response includes docs/{id}.docx source paths",
+          "id": "cites-doc-paths"
+        },
+        {
+          "text": "Results mention agile-specific terminology (sprint, ceremony, cadence, SAFe, scrum, etc.)",
+          "id": "agile-terminology"
+        },
+        {
+          "text": "Response shows query expansion with agile-related FTS5 synonym variants before searching",
+          "id": "query-expansion-present"
+        },
+        {
+          "text": "Response uses search.py script for database access",
+          "id": "used-search-script"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+### HCL Tech
+
+- Mode-1,2,3 strategy has allowed the firm to pursue larger and multi-tower AO deals with a focused approach
+- Focuses on establishing best practices in client organizations through KTs, setting up knowledge hubs, etc.
+- Inability to present unified front for multi-tower services with existence of internal silos among different service lines
+- Many CXOs consider HCL as a “Operate only non-transformative low cost” provider. This has been a recurring theme across enterprise buyers seeking a strategic transformation partner
+- Mature solution estimation capabilities with a scientific approach to sizing AO pursuits including diverse app portfolio
+- Has a strong play in Engineering services deals and is generally perceived to be a technically strong player. In some of the software engineering deals, it heavily focused on its credentials in software business that it acquired from IBM
+- Has been aggressively expanding its Vietnam capability for offshore delivery of IT/BPO services
+- Although flexible while negotiating contract Terms &amp; Conditions, legal team is typically slow-moving leading to client dissatisfaction at times
+- Perceived as a cost-effective partner, hence price negotiation cycles are usually of short turnaround which is appreciated by their clients
+- Recently in a few places, sourcing stakeholders have cited difficulties working with HCL post contract signatures. They have cited a very difficult approach to handling change orders contrary to amenable behavior shown before signing the contract Negotiation &amp; contracting
+- In sole sourced scenarios, has pioneered some innovative pricing constructs for its customers such as self-funded/seed funded transformation models in proactive pitches for AO/ITO scope
+- However, in large RFPs, HCL usually sticks to the routine. It may offer some financial engineering options in their AO deals, but nothing that confuses the clients or brings them to question their proposed value proposition
+- Seems to be well-versed in outcome-based models and suggests them to its clients from the outset
+- Sales driven engagements with an intent to win deals through commercial differentiation
+- Presents commercial flexibility and financial engineering options in most of its large SI or transformation-oriented deals
+- Has a strong play in Engineering services deals and is generally perceived to be a technically strong player. In some of the software product engineering deals, it heavily focused on its credentials in software business that it acquired from IBM
+- With a decline in the manufacturing sector has been focusing on growing its strength in the automotive sector
+- Focuses on establishing best practices in client organization through KTs, setting up knowledge hubs, etc.
+- Inability to present unified front for multi-tower services with existence of internal silos among different service lines
+- Many CXOs consider HCL as a “Operate only non-transformative low cost” provider. This has been a recurring theme across buyer logos
+- Mature solution estimation capabilities with a scientific approach to sizing deal pursuits
+- Typically offers competitive pricing in large competitive bids
+- In longer term deals tends to charge a higher COLA than most peers thereby being less competitive in the outer years
+- Amongst one of the few players who keep a lower markup for premium or niche skills
+- Has been observed to present competitive onshore rates in APAC region
+- In its major ADM deals, has been focusing on quick ramp-up in some of its large won deals thereby trying to lower its transition cost
+- Customers have often complained of lack of innovation during delivery and sticking to cookie-cutter responses during solutioning
+- In engineering services, having a product engineering mindset and strong partnerships with third-party providers is highly valued by clients. This approach has allowed for the development of innovative and effective solutions that meet the client’s specific needs
+- As seen in deals and as confirmed by its top growth leaders, HCL keeps the premium of milestone-based engagements within a threshold of 15-20% compared to engagements where they were expected to provide resources for augmentation purposes only
+- Regarded as a robust provider of engineering services, presenting its clients with some of the most captivating commercial models
+- Although flexible while negotiating contract Terms &amp; Conditions, legal team is typically slow-moving leading to client dissatisfaction at times
+- Perceived as a cost-effective partner, hence price negotiation cycles are usually of short turnaround
+- Recently in a few places, sourcing stakeholders have cited difficulties working with HCL post contract signatures. They have cited a very difficult approach to handling change orders contrary to amenable behaviour shown before signing the contract
+- Has been observed to maintain a good number of certified resources in the LATAM region indicating toward its strong talent capability in the region
+- Has been aggressively expanding its Vietnam capability for offshore delivery of IT/BPO services
+- In sole sourced scenarios, has pioneered some innovative pricing constructs for its customers such as self transformation models	-funded/seed funded
+- However, in large RFPs, HCL usually sticks to the routine. It may offer some financial engineering options, but nothing that confuses the clients or brings them to question the value proposition
+- Seems to be well-versed in outcome-based models and suggests them to clients from the outset
+- Sales driven engagements with an intent to win deals through commercial differentiation
+- Presents commercial flexibility and financial engineering options in most of its large transformation-oriented deals

@@ -1,0 +1,4 @@
+interface:
+  display_name: "IBM Bid AutoRFP Packager"
+  short_description: "Compile IBM bid answers for AutoRFP"
+  default_prompt: "Use $ibm-bid-autorfp-packager to compile IBM bid answer-intent records into AutoRFP-ready markdown documents."

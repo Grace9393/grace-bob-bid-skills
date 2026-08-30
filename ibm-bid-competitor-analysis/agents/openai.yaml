@@ -1,0 +1,4 @@
+interface:
+  display_name: "IBM Bid Competitor Analysis"
+  short_description: "Profile likely competitors in bids"
+  default_prompt: "Use $ibm-bid-competitor-analysis to assess likely competitors, their win paths, and IBM counter-positioning for this tender."

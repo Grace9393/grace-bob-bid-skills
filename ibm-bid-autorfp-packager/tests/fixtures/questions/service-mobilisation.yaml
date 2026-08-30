@@ -1,0 +1,71 @@
+question_reference: "Q1.2"
+title: "Service mobilisation"
+question: |
+  Describe your mobilisation approach, including governance, continuity of
+  service, and how you will minimise client oversight effort.
+word_limit: 650
+criteria:
+  - id: mobilisation_method
+    description: "Credible mobilisation approach"
+    weight: 0.40
+  - id: governance
+    description: "Strong governance and accountability"
+    weight: 0.30
+  - id: continuity
+    description: "Service continuity during transition"
+    weight: 0.30
+factual_context: |
+  IBM will retain the incumbent service manager during mobilisation and run
+  weekly governance reviews through its Transition Control Tower.
+draft_body: |
+  ## Executive summary
+
+  IBM will mobilise the service through a controlled transition that protects
+  continuity, keeps governance visible, and reduces client oversight burden.
+
+  ## Approach
+
+  IBM will use the Transition Control Tower and Mobilisation Design Authority to
+  manage workstream planning, decisions, and dependencies.
+
+  ## Governance
+
+  Weekly governance reviews will track risks, dependencies, and readiness
+  actions through named accountabilities.
+
+  ## Evidence
+
+  IBM has delivered comparable transitions with retained leadership continuity
+  and measurable controls.
+evaluator_concern: "Transition risk and loss of service continuity"
+secondary_concerns:
+  - Weak governance
+confidence_case: |
+  IBM is credible because it combines incumbent continuity with named
+  mobilisation controls and explicit governance cadences.
+confidence_heading: "Why you should have full confidence in our proposal"
+confidence_bullets:
+  - Incumbent continuity reduces transition risk.
+  - Named governance controls keep decisions visible.
+named_mechanisms:
+  - Transition Control Tower
+  - Mobilisation Design Authority
+repeated_bid_themes:
+  - Continuity
+  - Low oversight burden
+response_archetype: "Mobilisation or transition"
+required_headings:
+  - Executive summary
+  - Approach
+  - Governance
+  - Evidence
+phrases_to_mirror:
+  - minimal client oversight
+claim_provenance:
+  - claim_id: mobilisation-controls-001
+    claim_text: "IBM will run weekly governance reviews through its Transition Control Tower."
+    source_refs:
+      - source_document_title: "Mobilisation plan"
+        location: "section-2"
+        evidence_quote: "Weekly governance reviews through the Transition Control Tower."
+    approved_for_rewrite: true
