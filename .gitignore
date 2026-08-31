@@ -25,3 +25,9 @@ desktop.ini
 *.exe
 *.bin
 ffmpeg*
+
+# Exclude local dev scripts - Process Studio flags package name strings in .py files
+skills/*/scripts/
+skills/*/requirements.txt
+skills/*/tests/
+desktop.ini
