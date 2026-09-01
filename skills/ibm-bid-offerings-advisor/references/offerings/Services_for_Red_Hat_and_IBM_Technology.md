@@ -129,7 +129,7 @@ The IBM and Red Hat AI platform delivers unmatched enterprise value, combining d
 
 - **Citations (External)**  
   - Credit Mutuel  
-  - Nestle  
+  - [CLIENT]  
   - Lloyds  
   - Deutsche Bank  
   - Shell  

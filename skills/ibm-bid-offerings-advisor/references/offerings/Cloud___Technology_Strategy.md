@@ -112,7 +112,7 @@ Hybrid by Design Method
   - Honda  
   - Lumen  
   - Hong Kong Jockey Club  
-  - Heineken  
+  - [CLIENT]  
   - Bradesco  
   - Dubai Islamic Bank  
   - First Abu Dhabi Bank  

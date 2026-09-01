@@ -125,7 +125,7 @@ Accelerate Application Migration, Modernization and Digital Transformation with 
 - Rio Tinto  
 - GXW Logistics  
 - Wiwynn corporation  
-- Nestle  
+- [CLIENT]  
 
 **Win Wires (Internal)**  
 - UniCredit  

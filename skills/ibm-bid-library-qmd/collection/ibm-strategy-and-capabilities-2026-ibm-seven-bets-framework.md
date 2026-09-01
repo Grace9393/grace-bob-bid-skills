@@ -80,7 +80,7 @@ When US President John F. Kennedy gave his famous "moon speech" in September 196
 - **Recognition**: Emerging Leader in 2025 Gartner Innovation Guide for Generative AI Consulting
 - **Certifications**: 140K+ across Adobe (3K), AWS (36K), Microsoft (56K), Salesforce (20K), SAP (28K)
 - **Approach**: Guide clients to 'do the right AI' (value creation) and 'do AI right' (de-risk)
-- **Use Cases**: Virgin Money, US Open, British Sugar, Coca-Cola Europacific Partners
+- **Use Cases**: Virgin Money, US Open, British Sugar, [CLIENT] Europacific Partners
 
 ### Bet 3: Invest as Much in Your Software Supply Chain as Your Physical Supply Chain
 
@@ -194,7 +194,7 @@ When US President John F. Kennedy gave his famous "moon speech" in September 196
 - **Awards**: Leader in IDC MarketScape 2024 for ML Operations Platforms and AI Coding Technologies
 - **Expertise**: Automating and simplifying business workflows; data and AI across supply chains
 - **Approach**: Open ecosystem, co-creating with strategic partners; secure hybrid cloud platform operations
-- **Use Cases**: Coca-Cola Europacific Partners, ANZ Bank, National Housing Company (NHC), Husqvarna, Colruyt Group
+- **Use Cases**: [CLIENT] Europacific Partners, ANZ Bank, National Housing Company (NHC), Husqvarna, Colruyt Group
 
 ### Bet 7: Embrace the New Work-Life Continuum in a Tech-Enabled Workplace
 

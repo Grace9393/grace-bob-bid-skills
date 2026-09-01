@@ -143,7 +143,7 @@ Our value proposition is centered on helping businesses unlock the full potentia
 - Citations (External): Win Wires (Internal)
 - L’Oreal
 - Pepsi
-- Heineken
+- [CLIENT]
 - Elevance Health
 - MUF
 - Naturgy

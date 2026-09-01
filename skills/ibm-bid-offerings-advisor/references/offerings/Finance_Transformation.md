@@ -168,7 +168,7 @@ IBM Finance Services will transform and allow established businesses to redesign
 
 ### Citations (External):  
 - L’Oreal  
-- Heineken  
+- [CLIENT]  
 - Quicken Loans  
 - Elevance Health  
 - MUFG  
@@ -178,7 +178,7 @@ IBM Finance Services will transform and allow established businesses to redesign
 - Education First (EF)  
 - Reckitt  
 - KraftHeinz  
-- Nestle Globe Center Europe GmbH  
+- [CLIENT] Globe Center Europe GmbH  
 - Dentons UK And Middle East LLP  
 
 Confidential IBM Consulting 2025

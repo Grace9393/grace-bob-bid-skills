@@ -143,7 +143,7 @@ SAP S/4HANA serves as the digital core for mission critical business systems and
 - NSK Kirihara Plant  
 - Heimeren  
 - Ameropan  
-- Nestle  
+- [CLIENT]  
 
 Confidential IBM Consulting 2024
 

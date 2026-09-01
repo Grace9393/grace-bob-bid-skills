@@ -101,7 +101,7 @@ Designed to help clients optimize and future-proof their ISV eco-system. Backed 
 - NYC  
 - Samsung  
 - Royal Canin  
-- Heineken  
+- [CLIENT]  
 - State of Arizona  
 
 **Salesforce**  

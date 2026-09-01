@@ -108,7 +108,7 @@ Unlike any other solution, Custom AMS offers a zero-touch model for continuous m
 - **Citations (External)**:  
   IBM is a leader in the ISG Provider lens 2024 Next Gen ADM Services for Application Management Services  
 - **Clients**:  
-  SAMSUNG LUMEN AMERICAN EXPRESS Nestlé Johnson&Johnson AT&T GEXO Bombardier ... and 800+ more  
+  SAMSUNG LUMEN AMERICAN EXPRESS [CLIENT] Johnson&Johnson AT&T GEXO Bombardier ... and 800+ more  
 
 Confidential IBM Consulting 2024
 

@@ -88,8 +88,8 @@ The offering integrates GenAI infused operations, and modernized delivery method
   - Suncor  
 - **Win Wires (Internal)**:  
   - PMI  
-  - Nestle  
-  - Heineken  
+  - [CLIENT]  
+  - [CLIENT]  
   - BBC  
   - Abbott  
   - Southwest Gas  
