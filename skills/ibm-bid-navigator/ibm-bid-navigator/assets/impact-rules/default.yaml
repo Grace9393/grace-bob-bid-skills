@@ -1,0 +1,31 @@
+source_rules:
+  - source_asset_type: pricing_schedule
+    impact_type: changes_pricing
+    target_work_item_types: [skill_task, answer]
+    policy: mark_outdated
+    confidence: high
+  - source_asset_type: requirements_spreadsheet
+    impact_type: changes_requirement
+    target_work_item_types: [requirement, skill_task, answer]
+    policy: block_until_refreshed
+    confidence: high
+  - source_asset_type: draft_contract
+    impact_type: changes_contract_terms
+    target_work_item_types: [risk, skill_task, answer]
+    policy: mark_outdated
+    confidence: high
+  - source_asset_type: clarification_response
+    impact_type: adds_clarification
+    target_work_item_types: [requirement, answer, review]
+    policy: mark_outdated
+    confidence: high
+  - source_asset_type: evaluation_criteria
+    impact_type: changes_evaluation_criteria
+    target_work_item_types: [review, answer, skill_task]
+    policy: mark_needs_review
+    confidence: high
+  - source_asset_type: technical_appendix
+    impact_type: changes_solution_assumption
+    target_work_item_types: [skill_task, answer, review]
+    policy: block_until_refreshed
+    confidence: medium
